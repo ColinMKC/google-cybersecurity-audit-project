@@ -22,9 +22,9 @@ Controls & Compliance Checklist
 To begin, the implementation of stricter access controls based on least privilege and separation of duties is necessary, ensuring that only authorized users can access sensitive data such as credit card information and PII/SPII on a need-to-know basis. Additionally, encryption of customers’ credit card information is required to maintain the confidentiality of sensitive information. Furthermore, the installation of an Intrusion Detection System will help detect and prevent traffic that matches threat-related signatures. In addition, creating disaster recovery plans and backing up critical data is essential to ensure business continuity. Stronger password complexity requirements, along with a centralized password management system, should also be employed. Finally, it is recommended to upgrade legacy systems whenever possible, or otherwise implement a strict schedule to regularly monitor and maintain these systems.
 
 ## What I Learned
-* How to apply structured audit methodologies
-* How to evaluate risk using impact/likelihood matrices
-* How to assess controls using industry best practices
+* How to analyze risk assessment reports
+* How to evaluate risk and suggest improvements based on gaps identified
+* Control categories and how each one contributes to the security posture of an organization
 * How compliance frameworks influence audit decisions
 
 ## Disclaimer
